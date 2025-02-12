@@ -1,5 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-kerry-demo.squarespace.com	TRUE	/	FALSE	1999999999	crumb	BatEHFBlX5xtMzZhZTJmYzZlNzFhMTllNmM5Njg1N2U2YmNiMDc3
-kerry-demo.squarespace.com	TRUE	/	FALSE	1999999999	Locked	Qv01NGKkWtToaLTpdVPcLrlX4bSyv7DfWOKxuW9bTGA=
-
